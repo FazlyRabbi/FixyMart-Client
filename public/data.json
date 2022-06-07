@@ -1,0 +1,26 @@
+[
+  {
+    "_id":1,
+    "productImg":"https://i.ibb.co/4S0zhSS/tool1.webp",
+    "name":"Braking Blocks",
+    "quantity":240,
+    "minOrder":40,
+    "price":10
+  },
+  {
+    "_id":2,
+    "productImg":"https://i.ibb.co/bvg7RpS/tool2.webp",
+    "name":"Quiet Compres",
+    "quantity":340,
+    "minOrder":30,
+    "price":20
+  },
+  {
+    "_id":3,
+    "productImg":"https://i.ibb.co/NSjPhxS/tool3.webp",
+    "name":"Drill Machine",
+    "quantity":440,
+    "minOrder":20,
+    "price":30
+  }
+]

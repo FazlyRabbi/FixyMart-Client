@@ -1,0 +1,7 @@
+
+
+
+What is JWT 
+
+securely transmits information 
+between two parties.
